@@ -1,0 +1,661 @@
+[metadata]
+Name=Elentan Power Cube
+[main]
+4 Abbot of Keral Keep|ORI
+4 Abrupt Decay|MM3
+4 Academy Ruins|MMA
+4 Acidic Slime|M13
+4 Ajani Vengeant|ALA
+4 Aladdin's Ring|ARN
+1 Ancestral Recall|VMA
+4 Ancestral Vision|TSP
+4 Ancient Grudge|MM3
+4 Ancient Tomb|EXP
+4 Angel of Sanctions|AKH
+4 Angel of Serenity|RTR
+4 Anguished Unmaking|SOI
+4 Animate Dead|EMA
+4 Anticipate|BFZ
+4 Arbor Elf|M13
+4 Archangel of Thune|M14
+4 Arid Mesa|MM3
+4 Ankh of Mishra|LEB
+4 Armageddon|VMA
+4 Arcades Sabboth|LEG
+4 Ashiok, Nightmare Weaver|THS
+4 Ashnod's Altar|ATQ
+4 Avacyn's Pilgrim|MM3
+4 Avalanche Riders|TSB
+4 Avenger of Zendikar|WWK
+4 Awakening Zone|ROE
+4 Azorius Signet|MM3
+4 Aspect of Wolf|LEB
+4 Bad Moon|LEB
+4 Badlands|VMA
+1 Balance|EMA
+4 Baleful Strix|EMA
+4 Ball Lightning|DRK
+4 Baneslayer Angel|M11
+4 Banisher Priest|M14
+4 Banishing Light|JOU
+4 Baral, Chief of Compliance|AER
+4 Basalt Monolith|3ED
+4 Batterskull|NPH
+4 Bayou|VMA
+4 Bazaar of Baghdad|VMA
+4 Beast Within|NPH
+4 Birds of Paradise|M12
+4 Bitterblossom|MM2
+1 Black Lotus|VMA
+4 Black Vise|LEB
+4 Blackcleave Cliffs|SOM
+4 Blade Splicer|MM3
+4 Blaze of Glory|LEB
+4 Blightsteel Colossus|MBS
+4 Blood Moon|DRK
+4 Blood of the Martyr|DRK
+4 Blood Crypt|EXP
+4 Bloodbraid Elf|EMA
+4 Bloodstained Mire|EXP
+4 Blooming Marsh|KLD
+4 Bone Shredder|ULG
+4 Bonfire of the Damned|MM3
+4 Book of Rass|DRK
+4 Boros Charm|GTC
+4 Boros Signet|MM3
+4 Botanical Sanctum|KLD
+4 Braids, Cabal Minion|EMA
+4 Brain Freeze|VMA
+4 Brain Maggot|JOU
+1 Brainstorm|EMA
+4 Braingeyser|LEB
+4 Brainwash|DRK
+4 Breeding Pool|EXP
+4 Bribery|8ED
+4 Brimaz, King of Oreskos|BNG
+4 Brimstone Volley|CNS
+4 Bring to Light|BFZ
+4 Buried Alive|ODY
+4 Burning of Xinye|VMA
+4 Burst Lightning|MM2
+4 Cabal Ritual|VMA
+4 Careful Study|ODY
+4 Cast Out|AKH
+4 Celestial Colonnade|WWK
+4 Chain Lightning|EMA
+4 Chains of Mephistopheles|LEG
+1 Chalice of the Void|MRD
+4 Chandra, Flamecaller|OGW
+4 Chandra, Pyromaster|M15
+4 Chandra, Torch of Defiance|KLD
+1 Channel|VMA
+4 Char|RAV
+4 Chrome Mox|EMA
+4 Coalition Relic|FUT
+4 Coercive Portal|VMA
+4 Commit // Memory|AKH
+4 Compulsive Research|MM3
+4 Clone|LEB
+4 Cockatrice|LEB
+4 Concealed Courtyard|KLD
+4 Consecrated Sphinx|MBS
+4 Contract from Below|LEB
+4 Control Magic|EMA
+4 Copperline Gorge|SOM
+4 Corpse Dance|TPR
+4 Council's Judgment|CNS
+4 Counterspell|EMA
+4 Courser of Kruphix|BNG
+4 Crater's Claws|KTK
+4 Craterhoof Behemoth|MM3
+4 Creeping Tar Pit|WWK
+4 Chromium|LEG
+4 Crucible of Worlds|10E
+4 Cryptic Command|MM2
+4 Cursed Rack|ATQ
+4 Dack Fayden|EMA
+4 Damnation|MM3
+4 Daretti, Scrap Savant
+4 Dark Confidant|MM2
+4 Dark Petition|ORI
+4 Dark Ritual|TPR
+4 Darkslick Shores|SOM
+4 Day of Judgment|M12
+4 Daze|EMA
+4 Deathrite Shaman|EMA
+4 Deceiver Exarch|NPH
+4 Declaration in Stone|SOI
+4 Delver of Secrets|ISD
+1 Demonic Tutor|VMA
+1 Demonic Consultation|ICE
+4 Den Protector|DTK
+4 Deranged Hermit|VMA
+4 Desecration Demon|MM3
+4 Diabolic Edict|TPR
+1 Dig Through Time|KTK
+4 Dimir Signet|MM3
+4 Dingus Egg|LEB
+4 Demonic Hordes|LEB
+4 Disenchant|TPR
+4 Disintegrate|LEB
+4 Dismember|MM2
+4 Dissenter's Deliverance|AKH
+4 Dragonlord Atarka|DTK
+4 Dragonlord Dromoka|DTK
+4 Dragonlord Ojutai|DTK
+4 Dragonlord Silumgar|DTK
+4 Dreadbore|RTR
+4 Dromoka's Command|DTK
+4 Drain Life|LEB
+4 Drain Power|LEB
+4 Dualcaster Mage|EMA
+4 Duplicant|EMA
+4 Duress|EMA
+4 Edric, Spymaster of Trest|VMA
+4 Eidolon of the Great Revel|JOU
+4 Electrolyze|MM2
+4 Elesh Norn, Grand Cenobite|MM2
+4 Elspeth, Knight-Errant|MMA
+4 Elspeth, Sun's Champion|THS
+4 Elves of Deep Shadow|RAV
+4 Elvish Mystic|M15
+4 Emeria Angel|ZEN
+4 Empty the Warrens|MMA
+4 Emrakul, the Aeons Torn|MM2
+4 Emrakul, the Promised End|EMN
+4 Enlightened Tutor|EMA
+4 Entomb|EMA
+4 Eternal Witness|MMA
+4 Eureka|VMA
+4 Everflowing Chalice|MM2
+4 Exalted Angel|ONS
+4 Exhume|USG
+4 Exquisite Firecraft|ORI
+4 Fact or Fiction|EMA
+4 Faithless Looting|EMA
+4 Falkenrath Gorger|SOI
+1 Fastbond|VMA
+1 Flash|6ED
+4 Fatal Push|AER
+4 Fauna Shaman|M11
+4 Feldon's Cane|ATQ
+4 Fellwar Stone|DRK
+4 Festival|DRK
+4 Fiend Hunter|ISD
+4 Fiery Confluence
+4 Figure of Destiny|MMA
+4 Fire // Ice|APC
+4 Fireball|LEB
+4 Fireblast|VMA
+4 Firebolt|EMA
+4 Firedrinker Satyr|THS
+4 Flametongue Kavu|VMA
+4 Flickerwisp|MM3
+4 Flooded Strand|EXP
+4 Force Spike|7ED
+4 Force of Will|EMA
+4 Fog|LEB
+4 Force of Nature|LEB
+4 Forcefield|LEB
+4 Fork|LEB
+4 Frantic Search|VMA
+4 Freyalise, Llanowar's Fury
+4 Frost Titan|M12
+4 Fyndhorn Elves|VMA
+4 Gaea's Cradle|USG
+4 Gate to Phyrexia|ATQ
+4 Gabriel Angelfire|LEG
+4 Garruk Relentless|ISD
+4 Garruk Wildspeaker|M11
+4 Garruk, Apex Predator|M15
+4 Garruk, Primal Hunter|M13
+4 Geist of Saint Traft|ISD
+4 Genesis Wave|SOM
+4 Giant Growth|LEB
+4 Gideon Jura|M12
+4 Gideon of the Trials|AKH
+4 Gideon, Ally of Zendikar|BFZ
+4 Gifts Ungiven|MM3
+4 Gilded Lotus|M13
+1 Gitaxian Probe|NPH
+4 Glen Elendra Archmage|MMA
+4 Go for the Throat|MBS
+4 Goblin Dark-Dwellers|OGW
+4 Goblin Guide|MM3
+4 Goblin Welder|ULG
+4 Godless Shrine|EXP
+4 Golgari Signet|MM3
+4 Grave Titan|M12
+4 Green Sun's Zenith|EMA
+4 Grim Lavamancer|M12
+4 Grim Monolith|ULG
+4 Grim Tutor|S99
+4 Griselbrand|MM3
+4 Gruul Signet|MM3
+4 Gurmag Angler|FRF
+1 Gush|VMA
+4 Guttersnipe|RTR
+4 Hallowed Fountain|EXP
+4 Hangarback Walker|ORI
+4 Harmonize|MM3
+4 Harsh Mentor|AKH
+4 Heartbeat of Spring|CHK
+4 Hedron Archive|BFZ
+4 Hellrider|MM3
+4 Hero of Bladehold|MBS
+4 Hero's Downfall|THS
+4 High Tide|VMA
+4 Hissing Quagmire|OGW
+4 Honor of the Pure|M12
+4 Holy Strength|LEB
+4 Huntmaster of the Fells|DKA
+4 Hymn to Tourach|EMA
+4 Hypnotic Specter|M10
+4 Icy Manipulator|LEB
+4 Imperial Recruiter|PTK
+1 Imperial Seal|PTK
+4 Impulse|VIS
+4 Instill Energy|LEB
+4 Incinerate|M12
+4 Inferno Titan|M12
+4 Inferno|DRK
+4 Inquisition|DRK
+4 Inkwell Leviathan|EMA
+4 Inquisition of Kozilek|MM3
+4 Inspiring Vantage|KLD
+4 Iona, Shield of Emeria|MM2
+4 Ivory Tower|ATQ
+4 Izzet Charm|MM3
+4 Izzet Signet|MM3
+4 Jace Beleren|M11
+4 Jace, Architect of Thought|RTR
+4 Jace, Vryn's Prodigy|ORI
+4 Jace, the Mind Sculptor|VMA
+4 Jackal Pup|TMP
+4 Joraga Treespeaker|ROE
+4 Juggernaut|LEB
+4 Karma|LEB
+4 Kalitas, Traitor of Ghet|OGW
+4 Karakas|EMA
+4 Kargan Dragonlord|ROE
+4 Karn Liberated|MM2
+4 Kiki-Jiki, Mirror Breaker|MM2
+4 Kitchen Finks|MMA
+4 Knight of the White Orchid|ORI
+4 Knights of Thorn|DRK
+4 Kolaghan's Command|DTK
+4 Koth of the Hammer|SOM
+4 Kozilek, Butcher of Truth|MM2
+4 Kuldotha Forgemaster|SOM
+4 Kytheon, Hero of Akros|ORI
+4 Land Tax|4ED
+4 Lavaclaw Reaches|WWK
+4 Leonin Relic-Warder|MBS
+4 Leovold, Emissary of Trest
+4 Leyline of Sanctity|MM2
+1 Library of Alexandria|VMA
+4 Library of Leng|LEB
+4 Lifebane Zombie|M14
+4 Lightning Bolt|MM2
+4 Lightning Greaves|MRD
+4 Lightning Helix|MMA
+4 Lightning Mauler|AVR
+4 Lightning Strike|M15
+4 Liliana of the Veil|MM3
+4 Liliana, Death's Majesty|AKH
+4 Lingering Souls|MM3
+4 Linvala, Keeper of Silence|MM3
+4 Linvala, the Preserver|OGW
+1 Lion's Eye Diamond|MIR
+4 Living Death|TPR
+4 Llanowar Elves|EMA
+1 Lodestone Golem|MM2
+4 Looter il-Kor|TSP
+4 Lotus Bloom|MMA
+4 Lotus Cobra|ZEN
+1 Lotus Petal|TMP
+4 Lumbering Falls|BFZ
+4 Llanowar Elves|LEB
+4 Lord of Atlantis|LEB
+4 Lord of the Pit|LEB
+4 Lure|LEB
+4 Magical Hack|LEB
+4 Mahamoti Djinn|LEB
+4 Maelstrom Pulse|MMA
+4 Magma Jet|MM3
+4 Magus of the Moon|FUT
+4 Magus of the Wheel
+4 Magus of the Will|C16
+4 Makeshift Mannequin|LRW
+4 Mana Clash|DRK
+4 Mana Confluence|EXP
+1 Mana Crypt|EMA
+4 Mana Drain|VMA
+4 Mana Leak|MM2
+4 Mana Tithe|PLC
+1 Mana Vault|VMA
+4 Managorger Hydra|ORI
+4 Manglehorn|AKH
+4 Manic Vandal|M12
+4 Mardu Woe-Reaper|FRF
+4 Marsh Flats|MM3
+4 Massacre Wurm|MBS
+4 Master of the Wild Hunt|M10
+4 Maze of Ith|EMA
+1 Memory Jar|VMA
+4 Mental Misstep|NPH
+4 Mesmeric Fiend|VMA
+4 Metalworker|UDS
+1 Merchant Scroll|8ED
+4 Millstone|ATQ
+4 Mind Twist|4ED
+1 Mind's Desire|SCG
+4 Mindslaver|SOM
+4 Mind Bomb|DRK
+4 Mirari's Wake|CNS
+4 Mirran Crusader|MM2
+4 Mirror Universe|LEG
+4 Mishra's Factory|EMA
+4 Mishra's Workshop|ATQ
+4 Misty Rainforest|MM3
+4 Mizzium Mortars|MM3
+4 Moat|LEG
+1 Monastery Mentor|FRF
+4 Monastery Swiftspear|KTK
+4 Mother of Runes|EMA
+4 Mox Diamond|TPR
+1 Mox Emerald|VMA
+1 Mox Jet|VMA
+1 Mox Pearl|VMA
+1 Mox Ruby|VMA
+1 Mox Sapphire|VMA
+4 Mulldrifter|MM2
+4 Murderous Cut|KTK
+4 Mutavault|M14
+4 Myr Battlesphere|SOM
+4 Mystic Confluence
+4 Mystic Snake|MM2
+1 Mystical Tutor|EMA
+4 Natural Selection|LEB
+4 Nether Shadow|LEB
+4 Nettling Imp|LEB
+4 Nahiri, the Harbinger|SOI
+4 Natural Order|EMA
+4 Nature's Claim|EMA
+4 Necromancy|VIS
+1 Necropotence|EMA
+4 Needle Spires|OGW
+4 Nekrataal|EMA
+4 Nightmare|LEB
+4 Northern Paladin|LEB
+4 Nevinyrral's Disk|EMA
+4 Nezumi Graverobber|CHK
+4 Nezumi Shortfang|CHK
+4 Nicol Bolas, Planeswalker|M13
+4 Nicol Bolas|LEG
+4 Nebuchadnezzar|LEG
+4 North Star|LEG
+4 Nether Void|LEG
+4 Nissa, Worldwaker|M15
+4 Noble Hierarch|MM2
+4 Nykthos, Shrine to Nyx|THS
+4 Oath of Druids|TPR
+4 Oath of Nissa|OGW
+4 Obelisk of Undoing|ATQ
+4 Oblivion Ring|MM2
+4 Olivia Voldaren|MM3
+4 Oona's Prowler|LRW
+4 Ophiomancer
+4 Opposition|7ED
+4 Oracle of Mul Daya|ZEN
+4 Orzhov Signet|MM3
+4 Overgrown Tomb|EXP
+4 Pack Rat|RTR
+4 Painful Truths|BFZ
+4 Palinchron|VMA
+4 Palladia-Mors|LEG
+4 Parallax Wave|VMA
+4 Path to Exile|MM3
+4 Pentad Prism|5DN
+4 Pernicious Deed|CNS
+4 Personal Incarnation|LEB
+4 Pestermite|MMA
+4 Pestilence|LEB
+4 Phantasmal Image|MM3
+4 Phyrexian Metamorph|NPH
+4 Phyrexian Revoker|M15
+4 Pithing Needle|RTR
+4 Plateau|VMA
+4 Polluted Delta|EXP
+4 Polukranos, World Eater|THS
+1 Ponder|M12
+4 Porcelain Legionnaire|NPH
+4 Power Sink|LEB
+4 Power Artifact|ATQ
+4 Powerleech|ATQ
+4 Presence of the Master|LEG
+4 Primordial Ooze|LEG
+4 Princess Lucrezia|LEG
+4 Psionic Entity|LEG
+4 Psychic Purge|LEG
+4 Puppet Master|LEG
+4 Preordain|M11
+4 Primal Command|MM3
+4 Primeval Titan|MM2
+4 Progenitus|MMA
+4 Putrid Imp|VMA
+4 Qasali Pridemage|ARB
+4 Ragnar|LEG
+4 Ramirez DePietro|LEG
+4 Ramses Overdark|LEG
+4 Raging Ravine|WWK
+4 Rakdos Signet|MM3
+4 Rakdos's Return|RTR
+4 Ral Zarek|DGM
+4 Ravages of War|PTK
+4 Razorverge Thicket|SOM
+4 Reanimate|TPR
+4 Reckless Bushwhacker|OGW
+4 Reclamation Sage|M15
+4 Recruiter of the Guard
+4 Recurring Nightmare|TPR
+4 Reflector Mage|OGW
+4 Regrowth|VMA
+4 Remand|MM2
+4 Repeal|MM2
+4 Restoration Angel|MM3
+4 Reveillark|MMA
+4 Reverse Damage|LEB
+4 Reverse Polarity|ATQ
+4 Rocket Launcher|ATQ
+4 Rift Bolt|MMA
+4 Riftwing Cloudskate|MMA
+4 Rishadan Port|MMQ
+4 Rishkar, Peema Renegade|AER
+4 Rod of Ruin|LEB
+4 Rofellos, Llanowar Emissary|VMA
+4 Royal Assassin|LEB
+4 Sacred Foundry|EXP
+4 Sakura-Tribe Elder|CNS
+4 Savannah|VMA
+4 Scalding Tarn|MM3
+4 Scavenging Ooze|MM3
+4 Scroll Rack|TMP
+4 Scrubland|VMA
+4 Seachrome Coast|SOM
+4 Search for Tomorrow|MMA
+4 Searing Blaze|WWK
+4 Searing Spear|M13
+4 Seasons Past|SOI
+4 Seeker of the Way|KTK
+4 Seething Song|9ED
+4 Selesnya Signet|MM3
+4 Selfless Spirit|EMN
+4 Sengir Vampire|LEB
+4 Sensei's Divining Top|EMA
+4 Serra Angel|LEB
+4 Shadowmage Infiltrator|MM2
+4 Shallow Grave|MIR
+4 Shambling Vent|BFZ
+4 Shardless Agent|EMA
+4 Shelldock Isle|LRW
+4 Sheoldred, Whispering One|NPH
+4 Show and Tell|USG
+4 Shriekmaw|LRW
+4 Shrine of Burning Rage|NPH
+4 Sidisi, Undead Vizier|DTK
+4 Siege-Gang Commander|EMA
+4 Silverblade Paladin|AVR
+4 Simic Signet|MM3
+4 Simulacrum|LEB
+4 Skinrender|SOM
+4 Skullclamp|VMA
+4 Smash to Smithereens|ORI
+4 Smokestack|VMA
+4 Smuggler's Copter|KLD
+4 Snapcaster Mage|MM3
+4 Sneak Attack|EMA
+1 Sol Ring|VMA
+4 Soldier of the Pantheon|THS
+4 Solemn Simulacrum|M12
+4 Sol'kanar the Swamp King|LEG
+4 Song of the Dryads
+4 Soulfire Grand Master|FRF
+4 Sower of Temptation|LRW
+4 Spear of Heliod|THS
+4 Spectral Procession|MM2
+4 Spell Pierce|MM3
+4 Spellskite|MM2
+4 Sphinx of the Steel Wind|EMA
+4 Sphinx's Revelation|MM3
+4 Spirebluff Canal|KLD
+4 Spirit of the Labyrinth|BNG
+4 Splinter Twin|MM2
+4 Stasis|LEB
+4 Steam Vents|EXP
+4 Stirring Wildwood|WWK
+4 Stomping Ground|EXP
+4 Stone Calendar|DRK
+4 Stoneforge Mystic|WWK
+4 Stormbreath Dragon|THS
+1 Strip Mine|EXP
+4 Student of Warfare|ROE
+4 Sulfuric Vortex|EMA
+4 Sun Titan|M12
+4 Sundering Titan|DST
+4 Supreme Verdict|RTR
+4 Survival of the Fittest|TPR
+4 Sweltering Suns|AKH
+4 Sword of Body and Mind|SOM
+4 Sword of Feast and Famine|MBS
+4 Sword of Fire and Ice|MMA
+4 Sword of Light and Shadow|MMA
+4 Sword of War and Peace|NPH
+4 Swords to Plowshares|EMA
+4 Sword of the Ages|LEG
+4 Sylvan Paradise|LEG
+4 Sylvan Caryatid|THS
+4 Sylvan Library|EMA
+4 Taiga|VMA
+4 Tamiyo, the Moon Sage|AVR
+4 Tangle Wire|NMS
+4 Tarmogoyf|MM3
+4 Tasigur, the Golden Fang|FRF
+4 Temple Garden|EXP
+4 Tendrils of Agony|VMA
+4 Terastodon|CNS
+4 Terminate|MM3
+4 Terror|LEB
+4 Tezzeret the Seeker|MM2
+4 Tezzeret, Agent of Bolas|MBS
+4 Teleport|LEG
+4 Thada Adel, Acquisitor|WWK
+4 Thalia, Guardian of Thraben|DKA
+4 The Abyss|LEG
+4 The Rack|ATQ
+4 Thirst for Knowledge|MMA
+4 Thoughtseize|THS
+1 Thorn of Amethyst|LRW
+4 Thragtusk|MM3
+4 Thran Dynamo|UDS
+4 Through the Breach|CHK
+4 Thrun, the Last Troll|MBS
+4 Thundermaw Hellkite|M13
+4 Tidehollow Sculler|MMA
+4 Time Spiral|USG
+4 Time Elemental|LEG
+1 Time Walk|VMA
+1 Time Vault|LEA
+4 Timely Reinforcements|M12
+1 Timetwister|VMA
+1 Tinker|ULG
+1 Tolarian Academy|VMA
+4 Tooth and Nail|MMA
+4 Torrential Gearhulk|KLD
+4 Toxic Deluge|EMA
+4 Traverse the Ulvenwald|SOI
+4 Treachery|UDS
+1 Treasure Cruise|KTK
+4 Trinket Mage|SOM
+1 Trinisphere|DST
+4 Tropical Island|VMA
+4 True-Name Nemesis
+4 Trygon Predator|EMA
+4 Tundra|VMA
+4 Turnabout|VMA
+4 Tawnos's Wand|ATQ
+4 Ugin, the Spirit Dragon|FRF
+4 Ulamog, the Ceaseless Hunger|BFZ
+4 Ulamog, the Infinite Gyre|MM2
+4 Ultimate Price|DTK
+4 Umezawa's Jitte|BOK
+4 Unburial Rites|MM3
+4 Uncle Istvan|DRK
+4 Underground Sea|VMA
+4 Unexpectedly Absent|EMA
+4 Unholy Strength|LEB
+4 Unsummon|LEB
+4 Upheaval|VMA
+4 Urborg, Tomb of Yawgmoth|M15
+4 Ur-Drago|LEG
+4 Urborg|LEG
+4 Vaevictis Asmadi|LEG
+4 Vampire Nighthawk|MM3
+1 Vampiric Tutor|EMA
+4 Vedalken Shackles|MMA
+4 Vendilion Clique|MM2
+4 Venser, Shaper Savant|MM3
+4 Verdant Catacombs|MM3
+4 Verdurous Gearhulk|KLD
+4 Vindicate|EMA
+4 Voice of Resurgence|MM3
+4 Volcanic Island|VMA
+4 Vryn Wingmare|ORI
+4 Walking Ballista|AER
+4 Wall of Blossoms|TPR
+4 Wall of Omens|EMA
+4 Wall of Roots|TSB
+4 Wandering Fumarole|OGW
+4 Wasteland|EMA
+4 Watery Grave|EXP
+4 Westvale Abbey|SOI
+1 Wheel of Fortune|VMA
+4 White Knight|LEB
+4 Wildfire|MM2
+1 Windfall|C16
+4 Wild Growth|LEB
+4 Windswept Heath|EXP
+4 Winter Orb|EMA
+4 Will-o'-the-Wisp|LEB
+4 Wooded Foothills|EXP
+4 Woodfall Primus|MMA
+4 Worn Powerstone|EMA
+4 Wrath of God|EMA
+4 Wurmcoil Engine|SOM
+4 Xenagos, the Reveler|THS
+4 Yavimaya Elder|VMA
+4 Yawgmoth's Bargain|UDS
+1 Yawgmoth's Will|USG
+4 Young Pyromancer|EMA
+4 Zealous Conscripts|MM3
+4 Zurgo Bellstriker|DTK
